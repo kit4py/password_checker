@@ -1,2 +1,2 @@
 # password_checker
-Using API from pwnedpasswords.com, checking your password in leaked databases
+Using the API from pwnedpasswords.com, you can check if your password is implicated in any data leaks.
